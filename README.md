@@ -1,14 +1,14 @@
 # List of JAM LHAPDF:
 
-| LHAPDF                           | paper                           |
-| -----                            | -----                           |
-| [JAM15       ][15.LHAPDF]        | [JAM15       ][15.paper]        |
-| [JAM16       ][16.LHAPDF]        | [JAM16       ][16.paper]        |
-| [JAM17       ][17.LHAPDF]        | [JAM17       ][17.paper]        |
-| [JAM20SIDIS  ][20SIDIS.LHAPDF]   | [JAM20SIDIS  ][20SIDIS.paper]   |
-| [JAM21PDF    ][21PDF.LHAPDF]     | [JAM21PDF    ][21PDF.paper]     |
-| [JAM22polJets][22polJets.LHAPDF] | [JAM22polJets][22polJets.paper] |
-| [JAM22       ][22.LHAPDF]        | [JAM22       ][22.paper]        |
+| LHAPDF                           | iNSPIRE-HEP                |
+| :-----:                          | :-----:                    |
+| [JAM15       ][15.LHAPDF]        | [1418180][15.paper]        |
+| [JAM16       ][16.LHAPDF]        | [1485196][16.paper]        |
+| [JAM17       ][17.LHAPDF]        | [1599958][17.paper]        |
+| [JAM20SIDIS  ][20SIDIS.LHAPDF]   | [1840421][20SIDIS.paper]   |
+| [JAM21PDF    ][21PDF.LHAPDF]     | [1915661][21PDF.paper]     |
+| [JAM22polJets][22polJets.LHAPDF] | [2005440][22polJets.paper] |
+| [JAM22       ][22.LHAPDF]        | [2029139][22.paper]        |
 
 [15.LHAPDF]: https://github.com/QCDHUB/JAM15 'GitHub'
 [16.LHAPDF]: https://github.com/QCDHUB/JAM16 'GitHub'
